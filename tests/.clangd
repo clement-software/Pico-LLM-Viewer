@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - -std=c++17
+    - -I../src
+    - -I../build-tests/_deps/googletest-src/googletest/include

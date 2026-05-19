@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Claude
+.claude/
+
+# C++ build
+build/
+build-tests/
+compile_commands.json
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile.in
+*.elf
+*.bin
+*.hex
+*.uf2
+*.map
+*.dis
+
+# CPack
+_CPack_Packages/
+*.tar.gz
+*.zip
+
+# Compiled objects
+*.o
+*.a
+*.so
