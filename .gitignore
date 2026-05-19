@@ -24,7 +24,6 @@ Makefile.in
 *.elf
 *.bin
 *.hex
-*.uf2
 *.map
 *.dis
 
